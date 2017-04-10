@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CustomerCareDbModelStoreContainer" CdmEntityContainer="CustomerCareRepDbEntities">
+    <EntitySetMapping Name="CustomerRequests">
+      <EntityTypeMapping TypeName="CustomerCareDbModel.CustomerRequest">
+        <MappingFragment StoreEntitySet="CustomerRequest">
+          <ScalarProperty Name="CustomerRequestId" ColumnName="CustomerRequestId" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

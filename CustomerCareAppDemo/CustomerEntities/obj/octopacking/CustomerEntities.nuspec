@@ -1,0 +1,28 @@
+<package>
+  <metadata>
+    <id>CustomerEntities</id>
+    <version>1.0.0.0</version>
+    <authors>chouhan's</authors>
+    <owners>chouhan's</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The CustomerEntities deployment package, built on 4/10/2017</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\CustomerEntities.dll.config" target="CustomerEntities.dll.config" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\CustomerEntities.dll" target="CustomerEntities.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\CustomerEntities.pdb" target="CustomerEntities.pdb" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\Microsoft.Web.Infrastructure.dll" target="Microsoft.Web.Infrastructure.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\Newtonsoft.Json.dll" target="Newtonsoft.Json.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\Swashbuckle.Core.dll" target="Swashbuckle.Core.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Net.Http.Formatting.dll" target="System.Net.Http.Formatting.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Web.Http.dll" target="System.Web.Http.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Web.Http.WebHost.dll" target="System.Web.Http.WebHost.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\Newtonsoft.Json.xml" target="Newtonsoft.Json.xml" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Net.Http.Formatting.xml" target="System.Net.Http.Formatting.xml" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Web.Http.xml" target="System.Web.Http.xml" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Web.Http.WebHost.xml" target="System.Web.Http.WebHost.xml" />
+  </files>
+</package>

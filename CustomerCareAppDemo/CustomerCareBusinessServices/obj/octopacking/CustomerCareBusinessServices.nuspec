@@ -1,0 +1,29 @@
+<package>
+  <metadata>
+    <id>CustomerCareBusinessServices</id>
+    <version>1.0.0.0</version>
+    <authors>chouhan's</authors>
+    <owners>chouhan's</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The CustomerCareBusinessServices deployment package, built on 4/10/2017</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\CustomerCareBusinessServices.dll.config" target="CustomerCareBusinessServices.dll.config" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\CustomerCareBusinessServices.dll" target="CustomerCareBusinessServices.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\CustomerCareBusinessServices.pdb" target="CustomerCareBusinessServices.pdb" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\AutoMapper.DataReaderMapper.dll" target="AutoMapper.DataReaderMapper.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\AutoMapper.dll" target="AutoMapper.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\CustomerEntities.dll" target="CustomerEntities.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\DataModel.dll" target="DataModel.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\EntityFramework.dll" target="EntityFramework.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\EntityFramework.SqlServer.dll" target="EntityFramework.SqlServer.dll" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\CustomerEntities.pdb" target="CustomerEntities.pdb" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\DataModel.pdb" target="DataModel.pdb" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\AutoMapper.xml" target="AutoMapper.xml" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\EntityFramework.xml" target="EntityFramework.xml" />
+    <file src="C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\EntityFramework.SqlServer.xml" target="EntityFramework.SqlServer.xml" />
+  </files>
+</package>

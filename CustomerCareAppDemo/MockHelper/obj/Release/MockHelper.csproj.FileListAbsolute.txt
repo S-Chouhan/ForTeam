@@ -1,0 +1,14 @@
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\bin\Release\MockHelper.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\bin\Release\MockHelper.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\bin\Release\DataModel.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\bin\Release\nunit.framework.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\bin\Release\EntityFramework.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\bin\Release\DataModel.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\bin\Release\nunit.framework.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\bin\Release\EntityFramework.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\obj\Release\MockHelper.csprojResolveAssemblyReference.cache
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\obj\Release\MockHelper.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\MockHelper\obj\Release\MockHelper.pdb

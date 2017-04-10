@@ -1,0 +1,8 @@
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\CustomerCareRepository.dll.config
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\CustomerCareRepository.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\CustomerCareRepository.pdb
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\EntityFramework.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\EntityFramework.xml
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\obj\Debug\CustomerCareRepository.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\obj\Debug\CustomerCareRepository.pdb
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\obj\Debug\CustomerCareRepository.csprojResolveAssemblyReference.cache

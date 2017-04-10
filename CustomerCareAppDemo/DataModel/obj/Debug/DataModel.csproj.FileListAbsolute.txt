@@ -1,0 +1,40 @@
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.dll.config
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.pdb
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.xml
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.pdb
+D:\Samples\WebApi\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.dll.config
+D:\Samples\WebApi\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.dll
+D:\Samples\WebApi\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.pdb
+D:\Samples\WebApi\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.dll
+D:\Samples\WebApi\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Samples\WebApi\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.xml
+D:\Samples\WebApi\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Samples\WebApi\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\Samples\WebApi\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.dll
+D:\Samples\WebApi\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.pdb
+D:\Azure By Prasad N2\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.dll.config
+D:\Azure By Prasad N2\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.pdb
+D:\Azure By Prasad N2\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.xml
+D:\Azure By Prasad N2\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Azure By Prasad N2\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\Azure By Prasad N2\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Debug\DataModel.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\obj\Debug\DataModel.pdb

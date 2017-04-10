@@ -1,0 +1,13 @@
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\CustomerCareAppRepository.dll.config
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\CustomerCareAppRepository.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\CustomerCareAppRepository.pdb
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\CustomerEntities.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\EntityFramework.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\CustomerEntities.pdb
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\EntityFramework.xml
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\obj\Debug\CustomerCareAppRepository.csprojResolveAssemblyReference.cache
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\obj\Debug\CustomerCareAppRepository.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareRepository\obj\Debug\CustomerCareAppRepository.pdb

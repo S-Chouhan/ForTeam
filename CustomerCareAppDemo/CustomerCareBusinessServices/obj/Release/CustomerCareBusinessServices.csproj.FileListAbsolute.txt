@@ -1,0 +1,17 @@
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\CustomerCareBusinessServices.dll.config
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\CustomerCareBusinessServices.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\CustomerCareBusinessServices.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\AutoMapper.DataReaderMapper.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\AutoMapper.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\CustomerEntities.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\DataModel.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\EntityFramework.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\CustomerEntities.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\DataModel.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\AutoMapper.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\EntityFramework.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Release\CustomerCareBusinessServices.csprojResolveAssemblyReference.cache
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Release\CustomerCareBusinessServices.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Release\CustomerCareBusinessServices.pdb

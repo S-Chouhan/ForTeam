@@ -1,0 +1,66 @@
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.dll.config
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.pdb
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\Newtonsoft.Json.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\Swashbuckle.Core.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Net.Http.Formatting.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.WebHost.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\WebActivatorEx.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\Newtonsoft.Json.xml
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Net.Http.Formatting.xml
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.xml
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.WebHost.xml
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.pdb
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.csprojResolveAssemblyReference.cache
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.dll.config
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.pdb
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\Newtonsoft.Json.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\Swashbuckle.Core.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Net.Http.Formatting.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.WebHost.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\WebActivatorEx.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\Newtonsoft.Json.xml
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Net.Http.Formatting.xml
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.xml
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.WebHost.xml
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.csprojResolveAssemblyReference.cache
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.pdb
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.dll.config
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.pdb
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\Newtonsoft.Json.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\Swashbuckle.Core.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Net.Http.Formatting.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.WebHost.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\Newtonsoft.Json.xml
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Net.Http.Formatting.xml
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.xml
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.WebHost.xml
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.csprojResolveAssemblyReference.cache
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.dll.config
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\CustomerEntities.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\Swashbuckle.Core.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.csprojResolveAssemblyReference.cache
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\obj\Debug\CustomerEntities.pdb

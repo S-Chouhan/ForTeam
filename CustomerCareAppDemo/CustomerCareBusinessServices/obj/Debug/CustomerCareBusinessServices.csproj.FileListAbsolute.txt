@@ -1,0 +1,68 @@
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.dll.config
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.pdb
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.DataReaderMapper.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerEntities.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\DataModel.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerEntities.pdb
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\DataModel.pdb
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.xml
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.xml
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.csprojResolveAssemblyReference.cache
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.pdb
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.SqlServer.dll
+D:\Samples\WebApi\Demo\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.SqlServer.xml
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.dll.config
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.pdb
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.DataReaderMapper.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerEntities.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\DataModel.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.SqlServer.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerEntities.pdb
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\DataModel.pdb
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.xml
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.xml
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.SqlServer.xml
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.csprojResolveAssemblyReference.cache
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.dll
+D:\Samples\WebApi\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.pdb
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.dll.config
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.pdb
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.DataReaderMapper.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerEntities.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\DataModel.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.SqlServer.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerEntities.pdb
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\DataModel.pdb
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.xml
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.xml
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.SqlServer.xml
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.csprojResolveAssemblyReference.cache
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.dll
+D:\Azure By Prasad N2\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.dll.config
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerCareBusinessServices.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.DataReaderMapper.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerEntities.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\DataModel.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\CustomerEntities.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\DataModel.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\AutoMapper.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.csprojResolveAssemblyReference.cache
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerCareBusinessServices\obj\Debug\CustomerCareBusinessServices.pdb

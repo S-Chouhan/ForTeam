@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomerCareAppDemo</name>
+    </assembly>
+    <members>
+        <member name="M:CustomerCareAppDemo.Controllers.AuthenticateController.#ctor(CustomerCareBusinessServices.ITokenServices,CustomerCareBusinessServices.IUserServices)">
+            <summary>
+            Public constructor to initialize product service instance
+            </summary>
+        </member>
+        <member name="M:CustomerCareAppDemo.Controllers.AuthenticateController.Authenticate">
+            <summary>
+            Authenticates user and returns token with expiry.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CustomerCareAppDemo.Controllers.AuthenticateController.GetAuthToken(System.Int32)">
+            <summary>
+            Returns auth token for the validated user.
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CustomerCareAppDemo.ErrorHelper.ApiBusinessException">
+            <summary>
+            Api Business Exception
+            </summary>
+        </member>
+        <member name="M:CustomerCareAppDemo.ErrorHelper.ApiBusinessException.#ctor(System.Int32,System.String,System.Net.HttpStatusCode)">
+            <summary>
+            Public constructor for Api Business Exception
+            </summary>
+            <param name="errorCode"></param>
+            <param name="errorDescription"></param>
+            <param name="httpStatus"></param>
+        </member>
+        <member name="T:CustomerCareAppDemo.ErrorHelper.ApiDataException">
+            <summary>
+            Api Data Exception
+            </summary>
+        </member>
+        <member name="M:CustomerCareAppDemo.ErrorHelper.ApiDataException.#ctor(System.Int32,System.String,System.Net.HttpStatusCode)">
+            <summary>
+            Public constructor for Api Data Exception
+            </summary>
+            <param name="errorCode"></param>
+            <param name="errorDescription"></param>
+            <param name="httpStatus"></param>
+        </member>
+        <member name="T:CustomerCareAppDemo.ErrorHelper.ApiException">
+            <summary>
+            Api Exception
+            </summary>
+        </member>
+        <member name="T:CustomerCareAppDemo.ErrorHelper.IApiExceptions">
+            <summary>
+            IApiExceptions Interface
+            </summary>
+        </member>
+        <member name="P:CustomerCareAppDemo.ErrorHelper.IApiExceptions.ErrorCode">
+            <summary>
+            ErrorCode
+            </summary>
+        </member>
+        <member name="P:CustomerCareAppDemo.ErrorHelper.IApiExceptions.ErrorDescription">
+            <summary>
+            ErrorDescription
+            </summary>
+        </member>
+        <member name="P:CustomerCareAppDemo.ErrorHelper.IApiExceptions.HttpStatus">
+            <summary>
+            HttpStatus
+            </summary>
+        </member>
+        <member name="P:CustomerCareAppDemo.ErrorHelper.IApiExceptions.ReasonPhrase">
+            <summary>
+            ReasonPhrase
+            </summary>
+        </member>
+        <member name="T:CustomerCareAppDemo.Filters.ApiAuthenticationFilter">
+            <summary>
+            Custom Authentication Filter Extending basic Authentication
+            </summary>
+        </member>
+        <member name="M:CustomerCareAppDemo.Filters.ApiAuthenticationFilter.#ctor">
+            <summary>
+            Default Authentication Constructor
+            </summary>
+        </member>
+        <member name="M:CustomerCareAppDemo.Filters.ApiAuthenticationFilter.#ctor(System.Boolean)">
+            <summary>
+            AuthenticationFilter constructor with isActive parameter
+            </summary>
+            <param name="isActive"></param>
+        </member>
+        <member name="M:CustomerCareAppDemo.Filters.ApiAuthenticationFilter.OnAuthorizeUser(System.String,System.String,System.Web.Http.Controllers.HttpActionContext)">
+            <summary>
+            Protected overriden method for authorizing user
+            </summary>
+            <param name="username"></param>
+            <param name="password"></param>
+            <param name="actionContext"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CustomerCareAppDemo.Filters.BasicAuthenticationIdentity">
+            <summary>
+            Basic Authentication identity
+            </summary>
+        </member>
+        <member name="P:CustomerCareAppDemo.Filters.BasicAuthenticationIdentity.Password">
+            <summary>
+            Get/Set for password
+            </summary>
+        </member>
+        <member name="P:CustomerCareAppDemo.Filters.BasicAuthenticationIdentity.UserName">
+            <summary>
+            Get/Set for UserName
+            </summary>
+        </member>
+        <member name="P:CustomerCareAppDemo.Filters.BasicAuthenticationIdentity.UserId">
+            <summary>
+            Get/Set for UserId
+            </summary>
+        </member>
+        <member name="M:CustomerCareAppDemo.Filters.BasicAuthenticationIdentity.#ctor(System.String,System.String)">
+            <summary>
+            Basic Authentication Identity Constructor
+            </summary>
+            <param name="userName"></param>
+            <param name="password"></param>
+        </member>
+        <member name="T:CustomerCareAppDemo.Filters.GenericBasicAuthenticationFilter">
+            <summary>
+            Generic basic Authentication filter.
+            </summary>
+        </member>
+        <member name="M:CustomerCareAppDemo.Filters.GenericBasicAuthenticationFilter.#ctor">
+            <summary>
+            Public default Constructor
+            </summary>
+        </member>
+        <member name="M:CustomerCareAppDemo.Filters.GenericBasicAuthenticationFilter.#ctor(System.Boolean)">
+            <summary>
+            parameter isActive explicitly enables/disables this filetr.
+            </summary>
+            <param name="isActive"></param>
+        </member>
+        <member name="M:CustomerCareAppDemo.Filters.GenericBasicAuthenticationFilter.OnAuthorization(System.Web.Http.Controllers.HttpActionContext)">
+            <summary>
+            Checks basic authentication request
+            </summary>
+            <param name="filterContext"></param>
+        </member>
+        <member name="M:CustomerCareAppDemo.Filters.GenericBasicAuthenticationFilter.OnAuthorizeUser(System.String,System.String,System.Web.Http.Controllers.HttpActionContext)">
+            <summary>
+            Virtual method.Can be overriden with the custom Authorization.
+            </summary>
+            <param name="username"></param>
+            <param name="password"></param>
+            <param name="filterContext"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomerCareAppDemo.Filters.GenericBasicAuthenticationFilter.FetchAuthHeader(System.Web.Http.Controllers.HttpActionContext)">
+            <summary>
+            Checks for autrhorization header in the request and parses it, creates user credentials and returns as BasicAuthenticationIdentity
+            </summary>
+            <param name="filterContext"></param>
+        </member>
+        <member name="M:CustomerCareAppDemo.Filters.GenericBasicAuthenticationFilter.ChallengeAuthRequest(System.Web.Http.Controllers.HttpActionContext)">
+            <summary>
+            Send the Authentication Challenge request
+            </summary>
+            <param name="filterContext"></param>
+        </member>
+    </members>
+</doc>

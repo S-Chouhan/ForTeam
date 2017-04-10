@@ -1,0 +1,10 @@
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Release\DataModel.dll.config
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Release\DataModel.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Release\DataModel.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Release\EntityFramework.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Release\EntityFramework.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\obj\Release\DataModel.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\obj\Release\DataModel.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\DataModel\obj\Release\DataModel.csprojResolveAssemblyReference.cache

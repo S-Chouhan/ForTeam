@@ -1,0 +1,16 @@
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\CustomerEntities.dll.config
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\CustomerEntities.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\CustomerEntities.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\Newtonsoft.Json.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\Swashbuckle.Core.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Web.Http.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\Newtonsoft.Json.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Web.Http.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\obj\Release\CustomerEntities.dll
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\obj\Release\CustomerEntities.pdb
+C:\Users\chouhan's\Documents\GitHub\ForTeam\CustomerCareAppDemo\CustomerEntities\obj\Release\CustomerEntities.csprojResolveAssemblyReference.cache
